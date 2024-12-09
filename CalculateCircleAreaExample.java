@@ -25,6 +25,6 @@ InputStreamReader(System.in));
     }
 
   double area = Math.PI * radius * radius;
-  System.out.println("Area of a circle is " + area);
+  System.out.println("the area of a circcle is:" + area);
   }
 }
